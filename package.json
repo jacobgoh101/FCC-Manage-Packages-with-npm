@@ -16,7 +16,5 @@
   },
   "homepage": "https://github.com/jacobgoh101/FCC-Manage-Packages-with-npm#readme",
   "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
